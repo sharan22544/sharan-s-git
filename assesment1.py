@@ -4,3 +4,7 @@ print(a+b)
 print(a-b)
 print(a*b)
 print(a/b)
+
+x=input("enter first name")
+y=input("enter last name")
+print(f"Hello,{x} {y}!Welcome to python program.")
